@@ -1,0 +1,19 @@
+.aboutTitle
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.aboutImg
+{
+    width: 250px;
+    height: 250px;
+    margin: 10px auto;
+}
+
+.aboutContent
+{
+    margin: 20px 30px 30px 20px;
+    font-size: 20px;
+    text-align: left;
+}

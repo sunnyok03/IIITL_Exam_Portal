@@ -1,0 +1,98 @@
+const questions = [
+  {
+    _id: '1',
+    option2: 'United States Of America',
+    option1: 'Russia',
+    option3: 'United Kingdom',
+    question:
+      'Which was the first country to launch Artificial satellite in the space?',
+    option4: 'Germany',
+    answer: 'Russia',
+  },
+  {
+    _id: '2',
+    option4: 'Vatican City',
+    option2: 'Monaco',
+    option1: 'Singapore',
+    question: 'What is the smallest country in the world?',
+    option3: 'Liechtenstein',
+    answer: 'Vatican City',
+  },
+  {
+    _id: '3',
+    question: 'Which is the highest mountain peak in the world?',
+    option2: 'Mount Fiji',
+    option3: 'Mount Everest',
+    option1: 'Alps',
+    option4: 'K2',
+    answer: 'Mount Everest',
+  },
+  {
+    _id: '4',
+    option1: 'Sparrow',
+    question: 'Which is the smallest bird in the world?',
+    option2: 'Humming Bird',
+    option4: 'Canary',
+    option3: 'Finch',
+    answer: 'Humming Bird',
+  },
+  {
+    _id: '5',
+    option2: 'United States of America',
+    option3: 'United Kingdom',
+    question: 'Which is the first country to host the modern Olympics ?',
+    option4: 'Ireland',
+    option1: 'Greece',
+    answer: 'Greece',
+  },
+  {
+    _id: '6',
+    option1: 'North America',
+    option2: 'Europe',
+    option4: 'Asia',
+    option3: 'Australia',
+    question: 'Which is the smallest continent in the world?',
+    answer: 'Australia',
+  },
+  {
+    _id: '7',
+    option4: 'Blue Whale',
+    option1: 'Manatee',
+    option2: 'Killer Whale',
+    option3: 'Seal',
+    question: 'Which is the world’s biggest sea animal?',
+    answer: 'Blue Whale',
+  },
+  {
+    _id: '8',
+    option3: 'India',
+    option2: 'Russia',
+    option1: 'China',
+    question: 'Which was the first country to send man to the moon?',
+    option4: 'United States of America',
+    answer: 'United States of America',
+  },
+  {
+    _id: '9',
+    option4: 'China',
+    question: 'Which is the first country to print book?',
+    option3: 'India',
+    option1: 'France',
+    option2: 'United Kingdom',
+    answer: 'China',
+  },
+  {
+    _id: '10',
+    option1: 'Empire State Building',
+    option2: 'Burj Khalifa',
+    option3: 'Shanghai Tower',
+    option4: 'Taipei 101',
+    question: 'Tallest building in the world as of now?',
+    answer: 'Burj Khalifa',
+  },
+]
+
+export default questions
+
+// for general like js: module.export = questions
+// for ES6: export default questions
